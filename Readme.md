@@ -1,4 +1,4 @@
-###Main idea:
+### Main idea:
 Natural selection simulation, with Darwin's finches for contextualization.
 Individuals have different beaks (variable length and width), that impact probability of eating certain things
 Foods = fruits, seeds/nuts, insects
